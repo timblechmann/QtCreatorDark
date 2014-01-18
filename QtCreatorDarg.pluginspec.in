@@ -1,0 +1,9 @@
+<plugin name=\"QtCreatorDarg\" version=\"0.0.1\" compatVersion=\"0.0.1\">
+    <vendor>TimBlechmann</vendor>
+    <copyright>(C) Tim Blechmann</copyright>
+    <license>GPL-3</license>
+    <description>Dark Palette for QtCreator</description>
+    <url>http://tim.klingt.org</url>
+    $$dependencyList
+</plugin>
+
